@@ -1,2 +1,2 @@
 # apex-trade-analyzer
-AI-powered financial market analysis platform
+AI-powered financial market analysis platform 
